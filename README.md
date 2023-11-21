@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @trulymontana
-- 👧🏻 💻 🏠 🏠 🏠 🏠 🏠 ✈️ 💵 
-- 👀 Looking for a good coder (digital product development) & also a full stack developer to join our team. Always looking for a good hacker. 🙃
+- 💻 🏠 ✈️
+- 👀 Always looking for a senior full stack developer to join our team. 
 - 📧 emailMe
 
 <!---
